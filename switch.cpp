@@ -17,7 +17,9 @@ int main(){
     case 4:
       std::cout<<"Bro, Please Take a deep Breath and Relax";
       break;
-      
+    default:
+     std::cout<<"Please enter a number between 1 and 4";
+     break;
     
 
 
