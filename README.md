@@ -14,6 +14,7 @@ This repository contains the programs and concepts I learn along the way, from t
 - [x] Type Conversion
 - [x] Arithmetic Operators
 - [x] Switch Statements
+- [x] Ternary Operators
 
 ## 🔄 Currently Learning
 
