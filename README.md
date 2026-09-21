@@ -15,6 +15,7 @@ This repository contains the programs and concepts I learn along the way, from t
 - [x] Arithmetic Operators
 - [x] Switch Statements
 - [x] Ternary Operators
+- [x] Logical Operators
 
 ## 🔄 Currently Learning
 
