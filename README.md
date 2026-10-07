@@ -16,10 +16,29 @@ This repository contains the programs and concepts I learn along the way, from t
 - [x] Switch Statements
 - [x] Ternary Operators
 - [x] Logical Operators
-
-## 🔄 Currently Learning
-
-- Switch Statements
+- [x] while and do while loops
+- [x] for loops
+- [x] break and continue statements
+- [x] nested loops
+- [x] user defined functions
+- [x] return statements
+- [x] overloaded functions
+- [x] variable scope
+- [x] arrays
+- [x] for each loop
+- [x] multidimensional arrays
+- [x] passing arguements by reference
+- [x] const parameters
+- [x] pointers
+- [x] recursion
+- [x] dynamic memory(new and delete)
+- [x] function templates
+- [x] struct keyword
+- [x] enums
+- [x] classes and objects
+- [x] constructors and overloaded constructors
+- [x] getters and setters
+- [x] inheritance
 
 ## 🎯 Goal
 
