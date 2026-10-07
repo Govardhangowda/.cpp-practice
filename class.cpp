@@ -6,6 +6,13 @@ class car{
     int model_year=2018;
     double price=10000;
 
+    car(std::string brand,std::string model,int x, double price){
+      this->brand=brand;
+      this->model=model;
+      model_year=x;
+      this->price=price;
+    };
+
     void start(){
       std::cout<<"The car is now started\n";
     }
@@ -25,7 +32,7 @@ class car{
 int main(){
   
 
-  car car1{"Toyota","Camry",2026,40000.00};
+  car car1("Toyota","Camry",2026,40000.00);
   car car2{"Tesla","Model-X",2024,54000};
   car1.details();
   car2.details();
